@@ -1,5 +1,4 @@
-# DAA-WEEK-02
-week 2 practical
+
 #include<bits/stdc++.h>
 using namespace std;
 
